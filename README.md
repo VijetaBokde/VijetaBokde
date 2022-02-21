@@ -4,7 +4,7 @@ Hi there, I’m VijetaBokde 👋
 welcome to my github profile.
 
 
-i am a frontend developer.👀
+i am a web developer.👀
 
 
 i am open to work as a web developer.
